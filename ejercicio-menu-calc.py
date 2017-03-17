@@ -1,8 +1,6 @@
 # !/usr/bin/python
 # -*-coding: utf-8-*-
 
-import os
-
 	numero = int(raw_input('Introduce un numero ==> '))
 	numero2 = int(raw_input('Introduce otro numero ==> '))
 
